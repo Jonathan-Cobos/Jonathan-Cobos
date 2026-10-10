@@ -48,9 +48,7 @@ Me muevo entre el **desarrollo de software**, las **redes** y la **seguridad inf
 | ❌⭕ [**Triqui**](https://github.com/Jonathan-Cobos/triqui) | Juego clásico de triqui (tres en raya) con lógica de turnos y validación de ganador. | `Java` |
 
 
-> 💡 *Enlaza cada proyecto a su repositorio cuando lo tengas subido y con README propio.*
-
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
 
@@ -59,12 +57,12 @@ Me muevo entre el **desarrollo de software**, las **redes** y la **seguridad inf
 
 </div>
 
-## 🤝 Conectemos
+## Conectemos
 
 <div align="center">
 
 <a href="mailto:cobosprivado@gmail.com"><img src="https://img.shields.io/badge/Gmail-6b4a4a?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-6b4a4a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/jonathan-david-cobos-prieto-266855261/"><img src="https://img.shields.io/badge/LinkedIn-6b4a4a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/Jonathan-Cobos"><img src="https://img.shields.io/badge/GitHub-6b4a4a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
