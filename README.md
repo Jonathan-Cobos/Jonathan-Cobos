@@ -1,19 +1,17 @@
-<!-- ============ BANNER ============ -->
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b4a4a,100:c9a9a6&height=220&section=header&text=Jonathan%20Cobos&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Ingeniero%20de%20Sistemas%20%7C%20Desarrollo%20de%20Software%20%26%20Redes&descSize=18&descAlignY=60" alt="Banner" width="100%"/>
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=6B4A4A&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Jonathan+%F0%9F%91%8B;Desarrollo+backend+con+Java+y+Spring+Boot;Me+apasionan+las+redes+y+la+ciberseguridad;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
 
 </div>
 
-<!-- ============ SALUDO ============ -->
-## 👋 Hola, soy Jonathan
 
-Estudiante de **Ingeniería de Sistemas** (noveno semestre, Universidad Piloto de Colombia) en Bogotá, Colombia 🇨🇴.
+## ¿Quien soy? 
+
+hola soy Jonathan Cobos Estudiante de **Ingeniería de Sistemas** (noveno semestre, Universidad Piloto de Colombia) en Bogotá, Colombia 🇨🇴.
 Me muevo entre el **desarrollo de software**, las **redes** y la **seguridad informática**, y disfruto resolver problemas con un enfoque analítico y trabajando en equipo.
 
-## 🧑‍💻 Un poco sobre mí
+## sobre mí
 
 - 🎓 Cursando Ingeniería de Sistemas, noveno semestre.
 - 🔭 Actualmente construyendo APIs y aplicaciones web con **Java, Spring Boot y React**.
@@ -21,7 +19,7 @@ Me muevo entre el **desarrollo de software**, las **redes** y la **seguridad inf
 - 🌱 Aprendiendo y profundizando en arquitectura de software y buenas prácticas.
 - 📫 Contacto: **cobosprivado@gmail.com**
 
-## 🛠️ Stack y tecnologías
+## Stack y tecnologías
 
 <div align="center">
 
@@ -38,17 +36,17 @@ Me muevo entre el **desarrollo de software**, las **redes** y la **seguridad inf
 | **Redes y seguridad** | Redes de comunicación, análisis de tráfico, análisis DNS, fundamentos de ciberseguridad |
 | **Herramientas** | Git, GitHub, VS Code, Linux |
 
-## 🚀 Proyectos destacados
+##  Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| 🏦 [**Simulador bancario**](https://github.com/Jonathan-Cobos/simulador-bancario-jontahn-) | Simulador de operaciones bancarias aplicando programación orientada a objetos. | `Java` |
-| 🛒 [**Tienda de productos**](https://github.com/Jonathan-Cobos/Tienda-de-productos-final-) | Gestión de productos de una tienda con lógica de inventario. | `Java` |
-| ❌⭕ [**Triqui**](https://github.com/Jonathan-Cobos/triqui) | Juego clásico de triqui (tres en raya) con lógica de turnos y validación de ganador. | `Java` |
 | 🔌 **Cliente-servidor con sockets** | Aplicación de comunicación en red mediante sockets. | `Java` |
 | 📡 **Monitoreo de señales IoT** | Aplicación web y API para monitorear señales de sensores IoT. | `Spring Boot` · `React` · `SQL` |
 | 🗜️ **Compresor Huffman** | Compresor de archivos implementando el algoritmo de Huffman. | `Python` / `Java` |
 | 🔍 **Análisis de seguridad y tráfico DNS** | Investigación sobre seguridad y comportamiento del tráfico DNS. | `Python` · `Redes` |
+| 🏦 [**Simulador bancario**](https://github.com/Jonathan-Cobos/simulador-bancario-jontahn-) | Simulador de operaciones bancarias aplicando programación orientada a objetos. | `Java` |
+| ❌⭕ [**Triqui**](https://github.com/Jonathan-Cobos/triqui) | Juego clásico de triqui (tres en raya) con lógica de turnos y validación de ganador. | `Java` |
+
 
 > 💡 *Enlaza cada proyecto a su repositorio cuando lo tengas subido y con README propio.*
 
