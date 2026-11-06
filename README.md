@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:3b2a2a,50:6b4a4a,100:c9a9a6&height=260&section=header&text=JONATHAN%20DAVID%20COBOS&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn&stroke=c9a9a6&strokeWidth=1&desc=Ingeniero%20de%20Sistemas%20%E2%80%A2%20Backend%20%E2%80%A2%20Redes%20%E2%80%A2%20Ciberseguridad&descSize=18&descColor=f3e6e4&descAlignY=64" alt="Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:3b2a2a,50:6b4a4a,100:c9a9a6&height=260&section=header&text=JONATHAN%20DAVID%20COBOS%20PRIETO&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn&stroke=c9a9a6&strokeWidth=1&desc=Ingeniero%20de%20Sistemas%20%E2%80%A2%20Backend%20%E2%80%A2%20Redes%20%E2%80%A2%20Ciberseguridad&descSize=18&descColor=f3e6e4&descAlignY=64" alt="Banner" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=6B4A4A&center=true&vCenter=true&width=750&lines=Jonathan+David+Cobos+Prieto;Java+%C2%B7+Spring+Boot+%C2%B7+Python+%C2%B7+C;React+%C2%B7+HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+SQL;Redes+de+comunicaci%C3%B3n+%C2%B7+An%C3%A1lisis+de+tr%C3%A1fico+%C2%B7+Sockets;Ciberseguridad+%C2%B7+DNS+%C2%B7+Git+%C2%B7+GitHub+%C2%B7+Linux" alt="Typing SVG" />
 
@@ -42,6 +42,39 @@ Me muevo entre el **desarrollo de software**, las **redes** y la **seguridad inf
 | **Redes y seguridad** | Redes de comunicación, análisis de tráfico, análisis DNS, fundamentos de ciberseguridad |
 | **Control de versiones** | Git, GitHub (repositorios, ramas, commits, pull requests) |
 | **Herramientas** | VS Code, Postman, Linux |
+
+## Habilidades
+
+**Desarrollo de software**
+- Programación en Java, Python y C
+- Programación orientada a objetos
+- Desarrollo de APIs REST con Spring Boot
+- Desarrollo de interfaces web con React, HTML y CSS
+- Manejo de JavaScript
+
+**Bases de datos**
+- Diseño y consultas en SQL
+- Gestión de datos con MySQL
+
+**Redes de comunicación**
+- Fundamentos de redes de comunicación
+- Desarrollo de aplicaciones cliente-servidor con sockets
+- Análisis de tráfico de red
+- Análisis de tráfico y seguridad DNS
+
+**Ciberseguridad**
+- Fundamentos de ciberseguridad
+- Análisis de seguridad informática
+
+**Herramientas y control de versiones**
+- Git y GitHub: repositorios, ramas, commits y pull requests
+- Maven, Postman y VS Code
+- Entorno Linux
+
+**Habilidades blandas**
+- Pensamiento analítico
+- Resolución de problemas tecnológicos
+- Trabajo en equipo
 
 ## Proyectos destacados
 
